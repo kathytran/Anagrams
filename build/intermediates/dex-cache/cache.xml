@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/kathytran/.android/build-cache/13ed9e259e030683a42f473fae894fe99ca13b91/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="/Users/kathytran/Anagrams/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2196461b18aea8cf9d18c2d5300be934676afa93/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kathytran/Anagrams/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/kathytran/Anagrams/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bd23fbcd22ac46d249a6339ae19451e4e3e44d99/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kathytran/Anagrams/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="853b0afb4b1be45ab159509a223e39798e8ce17f">
+        <dex dex="/Users/kathytran/Anagrams/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5387a869e1f334d10ec3900f07856075effe22ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kathytran/.android/build-cache/db8f70a3a2d6a686fb2de80cb153b756a473728b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/kathytran/Anagrams/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4c1ef3f1ad7245fb8b03fad266dca353d822e955/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kathytran/.android/build-cache/2c58f9ff4fb8f6d9944fc1bb2b33eb1a9fb6a21a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/kathytran/Anagrams/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a5886f382abbd7db5fd95eddbbda499df5194076/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kathytran/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/kathytran/Anagrams/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.1_b548f608dd22b80c3542bdcc1cbb77699f210029/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kathytran/.android/build-cache/db8f70a3a2d6a686fb2de80cb153b756a473728b/output/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/kathytran/Anagrams/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.1_261638f430fd08aea0767704ad6678760da3bde5/classes.dex" />
+    </item>
+
+</items>
